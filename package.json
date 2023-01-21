@@ -1,5 +1,5 @@
 {
-	"name": "newsproduct",
+	"name": "newsproduct", 
 	"version": "0.4.0",
 	"description": "Render an OPML template as a news product.",
 	"author": "Dave Winer <dave@scripting.com>",

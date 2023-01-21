@@ -1,6 +1,6 @@
 #### 1/18/23; 10:55:37 AM by DW
 
-Now it works with the feedlandInstall package. New instructions for installing. 
+Now it works with the feedlandInstall package. New instructions for installing.  
 
 #### 8/24/22; 12:43:43 PM by DW
 
