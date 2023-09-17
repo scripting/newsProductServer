@@ -1,3 +1,9 @@
+#### 9/17/23; 12:29:10 PM by DW
+
+We now get the content from FeedLand server. No longer need a separate app to do this job.
+
+Saved a snapshot in the backup folder here. 
+
 #### 1/18/23; 10:55:37 AM by DW
 
 Now it works with the feedlandInstall package. New instructions for installing.  

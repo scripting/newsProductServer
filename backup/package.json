@@ -6,7 +6,9 @@
 	"main": "newsproduct.js",
 	"dependencies" : {
 		"daveutils": "*",
-		"request": "*",
-		"davehttp": "*"
+		"davesql": "*",
+		"daveappserver": "*",
+		"feedlanddatabase": "*",
+		"opml": "*"
 		} 
 	}
